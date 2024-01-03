@@ -7,7 +7,7 @@ The code in this repository fine-tunes a Llama 2 model on a 1000-sample subset o
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/dolly-llama-finetuning.git
+   git clone https://github.com/golkir/llama2-7b-minidatabricks.git
    cd llama2-7b-minidatabricks
 
    ```
