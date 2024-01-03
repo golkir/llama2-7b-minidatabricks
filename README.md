@@ -1,6 +1,6 @@
 # Llama 2 Fine-Tuning on Databricks Dolly 15k Subset
 
-The code in this repository fine-tunes a Llama 2 model on a 1000-sample subset of the [Dolly 15k instruction dataset](https://huggingface.co/datasets/databricks/databricks-dolly-15k) using Supervised Fine-Tuning (SFT) with QLoRA 4-bit precision.
+The code in this repository fine-tunes a Llama 2 model on a 1000-sample subset of the [Databricks Dolly 15k instruction dataset](https://huggingface.co/datasets/databricks/databricks-dolly-15k) using Supervised Fine-Tuning (SFT) with QLoRA 4-bit precision.
 
 ## Overview
 
@@ -33,7 +33,7 @@ The code in this repository fine-tunes a Llama 2 model on a 1000-sample subset o
 
 ## Acknowledgments
 
-- The Dolly 15k dataset is originally provided by Databricks. [Link to Dolly 15k dataset](https://huggingface.co/datasets/databricks/databricks-dolly-15k).
+- The Dolly 15k dataset is originally provided by Databricks. [Link to Databricks Dolly 15k dataset](https://huggingface.co/datasets/databricks/databricks-dolly-15k).
 - The Llama 2 model can be found in [HuggingFace repository](https://huggingface.co/meta-llama/Llama-2-7b-hf).
 
 ## License
